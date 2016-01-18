@@ -25,3 +25,6 @@
 [submodule "phpck"]
 	path = phpck
 	url = https://github.com/gerardroche/sublime-phpck.git
+[submodule "anaconda"]
+	path = anaconda
+	url = https://github.com/DamnWidget/anaconda.git
