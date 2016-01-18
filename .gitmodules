@@ -1,0 +1,3 @@
+[submodule "Material Theme"]
+	path = Material Theme
+	url = https://github.com/equinusocio/material-theme.git
