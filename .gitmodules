@@ -13,3 +13,15 @@
 [submodule "SublimeLinter"]
 	path = SublimeLinter
 	url = https://github.com/SublimeLinter/SublimeLinter3.git
+[submodule "SublimeLinter-php"]
+	path = SublimeLinter-php
+	url = https://github.com/SublimeLinter/SublimeLinter-php.git
+[submodule "SublimeLinter-phpmd"]
+	path = SublimeLinter-phpmd
+	url = https://github.com/SublimeLinter/SublimeLinter-phpmd.git
+[submodule "php-snippets"]
+	path = php-snippets
+	url = https://github.com/gerardroche/sublime-php-snippets.git
+[submodule "phpck"]
+	path = phpck
+	url = https://github.com/gerardroche/sublime-phpck.git
