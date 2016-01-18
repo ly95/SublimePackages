@@ -4,3 +4,6 @@
 [submodule "Material Theme - Appbar"]
 	path = Material Theme - Appbar
 	url = https://github.com/equinusocio/material-theme-appbar.git
+[submodule "sublime-PHP_CodeSniffer"]
+	path = sublime-PHP_CodeSniffer
+	url = https://github.com/squizlabs/sublime-PHP_CodeSniffer
