@@ -1,0 +1,30 @@
+[submodule "sublime-PHP_CodeSniffer"]
+	path = sublime-PHP_CodeSniffer
+	url = https://github.com/squizlabs/sublime-PHP_CodeSniffer
+[submodule "PhpDoc"]
+	path = PhpDoc
+	url = https://github.com/ly95/PhpDoc
+[submodule "SublimeLinter3"]
+	path = SublimeLinter3
+	url = https://github.com/SublimeLinter/SublimeLinter3.git
+[submodule "SublimeLinter-php"]
+	path = SublimeLinter-php
+	url = https://github.com/SublimeLinter/SublimeLinter-php.git
+[submodule "SublimeLinter-phpmd"]
+	path = SublimeLinter-phpmd
+	url = https://github.com/SublimeLinter/SublimeLinter-phpmd.git
+[submodule "anaconda"]
+	path = anaconda
+	url = https://github.com/DamnWidget/anaconda.git
+[submodule "sublime-php-snippets"]
+	path = sublime-php-snippets
+	url = https://github.com/gerardroche/sublime-php-snippets.git
+[submodule "sublime-phpck"]
+	path = sublime-phpck
+	url = https://github.com/gerardroche/sublime-phpck.git
+[submodule "Material Theme"]
+	path = Material Theme
+	url = https://github.com/equinusocio/material-theme.git
+[submodule "Material Theme - Appbar"]
+	path = Material Theme - Appbar
+	url = https://github.com/equinusocio/material-theme-appbar.git
