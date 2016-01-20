@@ -28,3 +28,6 @@
 [submodule "anaconda"]
 	path = anaconda
 	url = https://github.com/DamnWidget/anaconda.git
+[submodule "TypeScript"]
+	path = TypeScript
+	url = https://github.com/Microsoft/TypeScript-Sublime-Plugin.git
