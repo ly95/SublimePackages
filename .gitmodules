@@ -31,3 +31,6 @@
 [submodule "TypeScript"]
 	path = TypeScript
 	url = https://github.com/Microsoft/TypeScript-Sublime-Plugin.git
+[submodule "SublimeLinter-phpcs"]
+	path = SublimeLinter-phpcs
+	url = https://github.com/SublimeLinter/SublimeLinter-phpcs.git
