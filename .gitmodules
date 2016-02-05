@@ -31,3 +31,6 @@
 [submodule "SublimeLinter-phpcs"]
 	path = SublimeLinter-phpcs
 	url = https://github.com/SublimeLinter/SublimeLinter-phpcs.git
+[submodule "AlignTab"]
+	path = AlignTab
+	url = https://github.com/randy3k/AlignTab.git
