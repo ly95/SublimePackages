@@ -34,3 +34,6 @@
 [submodule "AlignTab"]
 	path = AlignTab
 	url = https://github.com/randy3k/AlignTab.git
+[submodule "SyncedSideBar"]
+	path = SyncedSideBar
+	url = https://github.com/sobstel/SyncedSideBar.git
